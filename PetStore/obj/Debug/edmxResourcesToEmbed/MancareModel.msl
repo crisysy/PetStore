@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PETSTORE_17846ce9beba4b96807239b1184c7df6ModelStoreContainer" CdmEntityContainer="PETSTORE_17846ce9beba4b96807239b1184c7df6Entities1">
+    <EntitySetMapping Name="Ambalajs">
+      <EntityTypeMapping TypeName="PETSTORE_17846ce9beba4b96807239b1184c7df6Model.Ambalaj">
+        <MappingFragment StoreEntitySet="Ambalajs">
+          <ScalarProperty Name="AmbalajID" ColumnName="AmbalajID" />
+          <ScalarProperty Name="Tip" ColumnName="Tip" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Animals">
+      <EntityTypeMapping TypeName="PETSTORE_17846ce9beba4b96807239b1184c7df6Model.Animal">
+        <MappingFragment StoreEntitySet="Animals">
+          <ScalarProperty Name="AnimalID" ColumnName="AnimalID" />
+          <ScalarProperty Name="Nume" ColumnName="Nume" />
+          <ScalarProperty Name="Varsta" ColumnName="Varsta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Compozities">
+      <EntityTypeMapping TypeName="PETSTORE_17846ce9beba4b96807239b1184c7df6Model.Compozity">
+        <MappingFragment StoreEntitySet="Compozities">
+          <ScalarProperty Name="CompozitieID" ColumnName="CompozitieID" />
+          <ScalarProperty Name="MancareID" ColumnName="MancareID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ingredients">
+      <EntityTypeMapping TypeName="PETSTORE_17846ce9beba4b96807239b1184c7df6Model.Ingredient">
+        <MappingFragment StoreEntitySet="Ingredients">
+          <ScalarProperty Name="IngredientID" ColumnName="IngredientID" />
+          <ScalarProperty Name="Nume" ColumnName="Nume" />
+          <ScalarProperty Name="CompozitieID" ColumnName="CompozitieID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Mancares">
+      <EntityTypeMapping TypeName="PETSTORE_17846ce9beba4b96807239b1184c7df6Model.Mancare">
+        <MappingFragment StoreEntitySet="Mancares">
+          <ScalarProperty Name="MancareID" ColumnName="MancareID" />
+          <ScalarProperty Name="Denumire" ColumnName="Denumire" />
+          <ScalarProperty Name="ProducatorID" ColumnName="ProducatorID" />
+          <ScalarProperty Name="AnimalID" ColumnName="AnimalID" />
+          <ScalarProperty Name="AmbalajID" ColumnName="AmbalajID" />
+          <ScalarProperty Name="Gramaj" ColumnName="Gramaj" />
+          <ScalarProperty Name="Stoc" ColumnName="Stoc" />
+          <ScalarProperty Name="PretAchizitie" ColumnName="PretAchizitie" />
+          <ScalarProperty Name="PretVanzare" ColumnName="PretVanzare" />
+          <ScalarProperty Name="DataExpirare" ColumnName="DataExpirare" />
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Producators">
+      <EntityTypeMapping TypeName="PETSTORE_17846ce9beba4b96807239b1184c7df6Model.Producator">
+        <MappingFragment StoreEntitySet="Producators">
+          <ScalarProperty Name="ProducatorID" ColumnName="ProducatorID" />
+          <ScalarProperty Name="Nume" ColumnName="Nume" />
+          <ScalarProperty Name="Adresa" ColumnName="Adresa" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

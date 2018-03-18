@@ -1,0 +1,1 @@
+﻿select nume from dbo.Ingredients, dbo.Compozities where dbo.Ingredients.CompozitieID=2;

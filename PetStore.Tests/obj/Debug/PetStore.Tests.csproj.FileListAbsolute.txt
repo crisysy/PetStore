@@ -1,0 +1,98 @@
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\PetStore.Tests.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\PetStore.Tests.pdb
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\PetStore.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Owin.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\PetStore.pdb
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\PetStore.dll.config
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\obj\Debug\PetStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\obj\Debug\PetStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\obj\Debug\PetStore.Tests.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\obj\Debug\PetStore.Tests.pdb
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\PetStore.Tests.dll.config
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\PetStore.Tests.dll.config
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\PetStore.Tests.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\PetStore.Tests.pdb
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\PetStore.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Owin.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\EntityFramework.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\PetStore.pdb
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\PetStore.dll.config
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\EntityFramework.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\obj\Debug\PetStore.Tests.csprojResolveAssemblyReference.cache
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\obj\Debug\PetStore.Tests.csproj.CoreCompileInputs.cache
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\obj\Debug\PetStore.Tests.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore.Tests\obj\Debug\PetStore.Tests.pdb

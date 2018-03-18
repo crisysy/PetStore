@@ -1,0 +1,158 @@
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\PetStore.dll.config
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\PetStore.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\PetStore.pdb
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Antlr3.Runtime.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\EntityFramework.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\EntityFramework.SqlServer.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.Web.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Newtonsoft.Json.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Owin.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Optimization.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Providers.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\WebGrease.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Optimization.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Antlr3.Runtime.pdb
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Newtonsoft.Json.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\EntityFramework.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\EntityFramework.SqlServer.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Providers.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\Microsoft.AI.Web.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\obj\Debug\PetStore.csproj.CoreCompileInputs.cache
+C:\Users\a.brinza\source\repos\PetStore\PetStore\obj\Debug\PetStore.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\obj\Debug\PetStore.pdb
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Helpers.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Mvc.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Razor.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.WebPages.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Helpers.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Mvc.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.Razor.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.WebPages.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\a.brinza\source\repos\PetStore\PetStore\obj\Debug\PetStore.csprojResolveAssemblyReference.cache
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\PetStore.dll.config
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\PetStore.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\PetStore.pdb
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Antlr3.Runtime.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\AspNet.ScriptManager.jQuery.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\EntityFramework.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\EntityFramework.SqlServer.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.Web.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.WindowsServer.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.ApplicationInsights.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.Google.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Newtonsoft.Json.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Owin.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Helpers.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Mvc.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Optimization.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Providers.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Razor.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.WebPages.Deployment.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.WebPages.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.WebPages.Razor.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\WebGrease.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Helpers.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Mvc.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Razor.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.WebPages.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.WebPages.Deployment.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.WebPages.Razor.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Optimization.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Antlr3.Runtime.pdb
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Newtonsoft.Json.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\EntityFramework.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\EntityFramework.SqlServer.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\System.Web.Providers.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.Google.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.ApplicationInsights.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.WindowsServer.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\bin\Microsoft.AI.Web.xml
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\obj\Debug\PetStore.csprojResolveAssemblyReference.cache
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\obj\Debug\PetStore.csproj.CoreCompileInputs.cache
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\obj\Debug\PetStore.dll
+D:\Facultate\An 3\Sem 1\BD\Proiect\PetStore\PetStore\PetStore\obj\Debug\PetStore.pdb

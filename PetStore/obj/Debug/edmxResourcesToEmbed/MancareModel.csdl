@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PETSTORE_17846ce9beba4b96807239b1184c7df6Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Ambalaj">
+    <Key>
+      <PropertyRef Name="AmbalajID" />
+    </Key>
+    <Property Name="AmbalajID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tip" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Mancares" Relationship="Self.FK_dbo_Mancares_dbo_Ambalajs_AmbalajID" FromRole="Ambalajs" ToRole="Mancares" />
+  </EntityType>
+  <EntityType Name="Animal">
+    <Key>
+      <PropertyRef Name="AnimalID" />
+    </Key>
+    <Property Name="AnimalID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nume" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Varsta" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Mancares" Relationship="Self.FK_dbo_Mancares_dbo_Animals_AnimalID" FromRole="Animals" ToRole="Mancares" />
+  </EntityType>
+  <EntityType Name="Compozity">
+    <Key>
+      <PropertyRef Name="CompozitieID" />
+    </Key>
+    <Property Name="CompozitieID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MancareID" Type="Int32" />
+    <NavigationProperty Name="Mancare" Relationship="Self.FK_dbo_Compozities_dbo_Mancares_MancareID" FromRole="Compozities" ToRole="Mancares" />
+    <NavigationProperty Name="Ingredients" Relationship="Self.FK_dbo_Ingredients_dbo_Compozities_CompozitieID" FromRole="Compozities" ToRole="Ingredients" />
+  </EntityType>
+  <EntityType Name="Ingredient">
+    <Key>
+      <PropertyRef Name="IngredientID" />
+    </Key>
+    <Property Name="IngredientID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nume" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CompozitieID" Type="Int32" />
+    <NavigationProperty Name="Compozity" Relationship="Self.FK_dbo_Ingredients_dbo_Compozities_CompozitieID" FromRole="Ingredients" ToRole="Compozities" />
+  </EntityType>
+  <EntityType Name="Mancare">
+    <Key>
+      <PropertyRef Name="MancareID" />
+    </Key>
+    <Property Name="MancareID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Denumire" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProducatorID" Type="Int32" />
+    <Property Name="AnimalID" Type="Int32" />
+    <Property Name="AmbalajID" Type="Int32" />
+    <Property Name="Gramaj" Type="Double" Nullable="false" />
+    <Property Name="Stoc" Type="Int32" Nullable="false" />
+    <Property Name="PretAchizitie" Type="Double" Nullable="false" />
+    <Property Name="PretVanzare" Type="Double" Nullable="false" />
+    <Property Name="DataExpirare" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ImagePath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Ambalaj" Relationship="Self.FK_dbo_Mancares_dbo_Ambalajs_AmbalajID" FromRole="Mancares" ToRole="Ambalajs" />
+    <NavigationProperty Name="Animal" Relationship="Self.FK_dbo_Mancares_dbo_Animals_AnimalID" FromRole="Mancares" ToRole="Animals" />
+    <NavigationProperty Name="Compozities" Relationship="Self.FK_dbo_Compozities_dbo_Mancares_MancareID" FromRole="Mancares" ToRole="Compozities" />
+    <NavigationProperty Name="Producator" Relationship="Self.FK_dbo_Mancares_dbo_Producators_ProducatorID" FromRole="Mancares" ToRole="Producators" />
+  </EntityType>
+  <EntityType Name="Producator">
+    <Key>
+      <PropertyRef Name="ProducatorID" />
+    </Key>
+    <Property Name="ProducatorID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nume" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adresa" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefon" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Mancares" Relationship="Self.FK_dbo_Mancares_dbo_Producators_ProducatorID" FromRole="Producators" ToRole="Mancares" />
+  </EntityType>
+  <Association Name="FK_dbo_Mancares_dbo_Ambalajs_AmbalajID">
+    <End Role="Ambalajs" Type="Self.Ambalaj" Multiplicity="0..1" />
+    <End Role="Mancares" Type="Self.Mancare" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ambalajs">
+        <PropertyRef Name="AmbalajID" />
+      </Principal>
+      <Dependent Role="Mancares">
+        <PropertyRef Name="AmbalajID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Mancares_dbo_Animals_AnimalID">
+    <End Role="Animals" Type="Self.Animal" Multiplicity="0..1" />
+    <End Role="Mancares" Type="Self.Mancare" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Animals">
+        <PropertyRef Name="AnimalID" />
+      </Principal>
+      <Dependent Role="Mancares">
+        <PropertyRef Name="AnimalID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Compozities_dbo_Mancares_MancareID">
+    <End Role="Mancares" Type="Self.Mancare" Multiplicity="0..1" />
+    <End Role="Compozities" Type="Self.Compozity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mancares">
+        <PropertyRef Name="MancareID" />
+      </Principal>
+      <Dependent Role="Compozities">
+        <PropertyRef Name="MancareID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Ingredients_dbo_Compozities_CompozitieID">
+    <End Role="Compozities" Type="Self.Compozity" Multiplicity="0..1" />
+    <End Role="Ingredients" Type="Self.Ingredient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Compozities">
+        <PropertyRef Name="CompozitieID" />
+      </Principal>
+      <Dependent Role="Ingredients">
+        <PropertyRef Name="CompozitieID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Mancares_dbo_Producators_ProducatorID">
+    <End Role="Producators" Type="Self.Producator" Multiplicity="0..1" />
+    <End Role="Mancares" Type="Self.Mancare" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producators">
+        <PropertyRef Name="ProducatorID" />
+      </Principal>
+      <Dependent Role="Mancares">
+        <PropertyRef Name="ProducatorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PETSTORE_17846ce9beba4b96807239b1184c7df6Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ambalajs" EntityType="Self.Ambalaj" />
+    <EntitySet Name="Animals" EntityType="Self.Animal" />
+    <EntitySet Name="Compozities" EntityType="Self.Compozity" />
+    <EntitySet Name="Ingredients" EntityType="Self.Ingredient" />
+    <EntitySet Name="Mancares" EntityType="Self.Mancare" />
+    <EntitySet Name="Producators" EntityType="Self.Producator" />
+    <AssociationSet Name="FK_dbo_Mancares_dbo_Ambalajs_AmbalajID" Association="Self.FK_dbo_Mancares_dbo_Ambalajs_AmbalajID">
+      <End Role="Ambalajs" EntitySet="Ambalajs" />
+      <End Role="Mancares" EntitySet="Mancares" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Mancares_dbo_Animals_AnimalID" Association="Self.FK_dbo_Mancares_dbo_Animals_AnimalID">
+      <End Role="Animals" EntitySet="Animals" />
+      <End Role="Mancares" EntitySet="Mancares" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Compozities_dbo_Mancares_MancareID" Association="Self.FK_dbo_Compozities_dbo_Mancares_MancareID">
+      <End Role="Mancares" EntitySet="Mancares" />
+      <End Role="Compozities" EntitySet="Compozities" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Ingredients_dbo_Compozities_CompozitieID" Association="Self.FK_dbo_Ingredients_dbo_Compozities_CompozitieID">
+      <End Role="Compozities" EntitySet="Compozities" />
+      <End Role="Ingredients" EntitySet="Ingredients" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Mancares_dbo_Producators_ProducatorID" Association="Self.FK_dbo_Mancares_dbo_Producators_ProducatorID">
+      <End Role="Producators" EntitySet="Producators" />
+      <End Role="Mancares" EntitySet="Mancares" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
